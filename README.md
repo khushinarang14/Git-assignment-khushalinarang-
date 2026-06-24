@@ -4,3 +4,6 @@
 - Git is used for various control
 - git add stages changes before commit
 - git commit saves changes with a message
+- git is used for version control
+- git add stages changes before commit
+- git commit saves changes with a message
